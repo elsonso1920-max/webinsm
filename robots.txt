@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elsonso1920-max.github.io/webinsm/sitemap.xml
